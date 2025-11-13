@@ -1,27 +1,17 @@
-## Step 2: (replace-me: STEP-NAME)
+## Step 2: Create a new branch
 
-(replace-me: OPTIONAL Brief story or scenario to introduce the step)
+Now, we need to create a branch
 
-### 📖 Theory: (replace-me: Theory title)
+### ⌨️ Activity
 
-<!-- GitHub-styled notifications can be used outside of ordered lists. Available options are: NOTE, IMPORTANT, WARNING, TIP, CAUTION -->
-<!--
-> [!NOTE]
-> (Important note or additional information relevant to this section)
- -->
-
-(replace-me: Optional theory or background information relevant to this step)
-
-### ⌨️ Activity: (replace-me: Activity title)
-
-1. (replace-me: First instruction)
-1. (replace-me: Second instruction)
-1. (replace-me: Additional instructions as needed)
+1. Click the main branch until it shows a dropdown
+2. When it shows a search bar, type this as the name: branch-learning
+3. Click Create Branch from main, then wait!
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- (replace-me: Troubleshooting tip or hint)
-- (replace-me: Additional troubleshooting tips as needed)
+- Do you have the dropdown open?
+- If issues persist, please go onto the main template and file an issue so I can get it fixed
 
 </details>
