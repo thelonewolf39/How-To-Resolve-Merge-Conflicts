@@ -1,27 +1,16 @@
-## Step 3: (replace-me: STEP-NAME)
+## Step 3: Merge Conflict time
 
-(replace-me: OPTIONAL Brief story or scenario to introduce the step)
+Now, we will see how a merge conflict is there when pull request is opened
 
-### 📖 Theory: (replace-me: Theory title)
+### 📖 Learning time
+A merge request is there because it doesn't know what files to keep and what files to remove! It just knows to try to merge them. That's why you should pull before pushing! That gets all of the new changes to the branch added to your code!
 
-<!-- GitHub-styled notifications can be used outside of ordered lists. Available options are: NOTE, IMPORTANT, WARNING, TIP, CAUTION -->
-<!--
-> [!NOTE]
-> (Important note or additional information relevant to this section)
- -->
+### ⌨️ Activity
 
-(replace-me: Optional theory or background information relevant to this step)
-
-### ⌨️ Activity: (replace-me: Activity title)
-
-1. (replace-me: First instruction)
-1. (replace-me: Second instruction)
-1. (replace-me: Additional instructions as needed)
-
-<details>
-<summary>Having trouble? 🤷</summary><br/>
-
-- (replace-me: Troubleshooting tip or hint)
-- (replace-me: Additional troubleshooting tips as needed)
-
-</details>
+1. Click the Compare & Pull Request Button
+2. Click the Create Pull Request Button
+3. Click the Create Pull Request Button again (don't worry about the error, that's all part of the plan)
+4. You will see a message saying This branch has conflicts that must be resolved, click the Resolve conflicts button
+5. Click the Accept both changes button and then click Mark as resolved
+6. Click the Commit merge button
+7. Finally click the Merge pull request button!
