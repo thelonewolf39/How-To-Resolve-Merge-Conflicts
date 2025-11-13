@@ -15,9 +15,9 @@ Today, we are gonna learn how to resolve merge conflicts in an easy way!
 
 In this exercise, you will:
 
-1. (replace-me: Learning objective step #1)
-1. (replace-me: Learning objective step #2)
-1. (replace-me: Learning objective step #N)
+1. Learn how to generate a simple website
+2. Why merge conflicts exist
+3. How to resolve a merge conflict
 
 
 ### How to start this exercise
