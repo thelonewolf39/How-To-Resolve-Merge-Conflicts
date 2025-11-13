@@ -1,15 +1,15 @@
-# (replace-me: Exercise title)
+# How To Resolve Merge Conflicts
 
-_(replace-me: One-line description of the exercise)_
+Today, we are gonna learn how to resolve merge conflicts in an easy way!
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
-- **What you'll learn**: (replace-me: Learning objectives)
-- **What you'll build**: (replace-me: Description of what the learner will create)
+- **Who is this for**: Github Education users with little to no experience with merge conflicts
+- **What you'll learn**: How to resolve merge conflicts
+- **What you'll build**: A simple html website with a clicker.
 - **Prerequisites**:
-  - (replace-me: Prerequisite skill/exercise)
-  - (replace-me: Other prerequisites)
+  - HTML Experience (little to none)
+  - Pull Request Experience
 
 - **How long**: This exercise takes less than (replace-me: estimated time) to complete.
 
@@ -25,7 +25,7 @@ In this exercise, you will:
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
 <!--  (replace-me: Make sure to edit the URL with proper template_owner, template_name, repo name and description)  -->
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=exercise-template&owner=%40me&name=skills-<replace-me>&description=Exercise:+Replace+me&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=thelonewolf39&template_name=How-To-Resolve-Merge-Conflicts&owner=%40me&name=skills-<replace-me>&description=Exercise:+Replace+me&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
