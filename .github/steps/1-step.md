@@ -1,27 +1,24 @@
-## Step 1: (replace-me: STEP-NAME)
+## Step 1: Create the index.html page
 
-(replace-me: OPTIONAL Brief story or scenario to introduce the step)
+First, to learn about merge conflicts, we gotta make one!
 
-### 📖 Theory: (replace-me: Theory title)
+### ⌨️ Activity
 
-<!-- GitHub-styled notifications can be used outside of ordered lists. Available options are: NOTE, IMPORTANT, WARNING, TIP, CAUTION -->
-<!--
-> [!NOTE]
-> (Important note or additional information relevant to this section)
- -->
-
-(replace-me: Optional theory or background information relevant to this step)
-
-### ⌨️ Activity: (replace-me: Activity title)
-
-1. (replace-me: First instruction)
-1. (replace-me: Second instruction)
-1. (replace-me: Additional instructions as needed)
+1. Copy and paste this into index.html:
+   ```
+   <!DOCTYPE html>
+   <html>
+   <body>
+   <h1>My First Heading</h1>
+   <p>My first paragraph.</p>
+   </body>
+   </html>
+   ```
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
-- (replace-me: Troubleshooting tip or hint)
-- (replace-me: Additional troubleshooting tips as needed)
+- Make sure to hit add -> new file, then paste
+- Also make sure to commit to branch
 
 </details>
